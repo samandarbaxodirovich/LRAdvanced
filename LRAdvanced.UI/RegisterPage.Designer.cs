@@ -71,7 +71,7 @@
             this.eyeButton.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("eyeButton.BackgroundImage")));
             this.eyeButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.eyeButton.ForeColor = System.Drawing.Color.SlateGray;
-            this.eyeButton.Location = new System.Drawing.Point(536, 216);
+            this.eyeButton.Location = new System.Drawing.Point(536, 215);
             this.eyeButton.Name = "eyeButton";
             this.eyeButton.Size = new System.Drawing.Size(37, 38);
             this.eyeButton.TabIndex = 22;
@@ -133,7 +133,7 @@
             this.button1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button1.BackgroundImage")));
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.ForeColor = System.Drawing.Color.SlateGray;
-            this.button1.Location = new System.Drawing.Point(536, 300);
+            this.button1.Location = new System.Drawing.Point(536, 299);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(37, 38);
             this.button1.TabIndex = 27;
