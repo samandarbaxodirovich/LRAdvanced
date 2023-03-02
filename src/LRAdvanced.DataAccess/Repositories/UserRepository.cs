@@ -35,7 +35,7 @@ namespace LRAdvanced.DataAccess.Repositories
             {
                 var user = await context.Users.FirstOrDefaultAsync(x=>x.Email == email);
                 if(user != null) return user;
-                else return new User();
+                else return null!;
             }
         }
         public async Task<User> GetByIdAsync(long id)
@@ -44,7 +44,7 @@ namespace LRAdvanced.DataAccess.Repositories
             {
                 var user = await context.Users.FirstOrDefaultAsync(x => x.Id == id);
                 if (user != null) return user;
-                else return new User();
+                else return null!;
             }
         }
         public async Task<bool> UpdateAsync(long id, User entity)

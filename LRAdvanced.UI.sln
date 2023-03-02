@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LRAdvanced.Domain", "src\LR
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LRAdvanced.Service", "src\LRAdvanced.Service\LRAdvanced.Service.csproj", "{6EC7D219-FD2D-4A21-8C63-988BC9DD7D9F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LRAdvanced.UI", "src\LRAdvanced.UI\LRAdvanced.UI.csproj", "{3DA78F7E-901B-47B1-BD62-2AF2521EC52A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRAdvanced.UI", "LRAdvanced.UI\LRAdvanced.UI.csproj", "{5FA64768-8318-4652-90E9-AF3C896EC14B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{6EC7D219-FD2D-4A21-8C63-988BC9DD7D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EC7D219-FD2D-4A21-8C63-988BC9DD7D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EC7D219-FD2D-4A21-8C63-988BC9DD7D9F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3DA78F7E-901B-47B1-BD62-2AF2521EC52A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3DA78F7E-901B-47B1-BD62-2AF2521EC52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3DA78F7E-901B-47B1-BD62-2AF2521EC52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3DA78F7E-901B-47B1-BD62-2AF2521EC52A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FA64768-8318-4652-90E9-AF3C896EC14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA64768-8318-4652-90E9-AF3C896EC14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA64768-8318-4652-90E9-AF3C896EC14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA64768-8318-4652-90E9-AF3C896EC14B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

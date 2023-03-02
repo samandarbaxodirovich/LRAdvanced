@@ -22,4 +22,8 @@
     <ProjectReference Include="..\LRAdvanced.Service\LRAdvanced.Service.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+
 </Project>
